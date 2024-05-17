@@ -13,28 +13,29 @@
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
   </head>
   <body class="home-template">
-    <!-- github fork me button -->
-    <a href="https://github.com/domenkozar/domenkozar.com"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
-
     <aside class="SiteInfobar">
       <a href="/" class="SiteInfobar-logo" alt="Blog logo" ><span class="fa-stack fa-5x">
           <img class="fa-stack-1x" src="/images/me.png" />
         </span></a>
-      <h2 class="Title">Domen Kožar's thoughts</h2>
-      <h6 class="Description"><a href="https://cachix.org/">Cachix</a> founder / <a href="https://nix.dev">Nix.dev</a> writer / <a href="http://weekly.nixos.org">NixOS Weekly</a> editor</h6>
+      <h2 class="Title">Mehdi's thoughts</h2>
+      <h6 class="Description">
+          <a href="https://ipanel.me">iPanel</a> founder /
+          <a href="https://linkedin.com/"> Linkedin</a> writer /
+          <a href="http://snapp.ir">Snapp<i>!</i></a> editor
+      </h6>
 
       <section>
-        <a href="https://twitter.com/domenkozar"><span class="fa-stack fa-lg">
+        <a href="https://twitter.com/mehdiirh"><span class="fa-stack fa-lg">
           <i class="fa fa-circle fa-stack-2x"></i>
           <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
         </span></a>
         &nbsp;
-        <a href="https://github.com/domenkozar"><span class="fa-stack fa-lg">
+        <a href="https://github.com/mehdiirh"><span class="fa-stack fa-lg">
           <i class="fa fa-circle fa-stack-2x"></i>
           <i class="fa fa-github fa-stack-1x fa-inverse"></i>
         </span></a>
         &nbsp;
-        <a href="mailto:domen@dev.si"><span class="fa-stack fa-lg">
+        <a href="mailto:contact@mehdirh.dev"><span class="fa-stack fa-lg">
           <i class="fa fa-circle fa-stack-2x"></i>
           <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
         </span></a>
@@ -49,12 +50,6 @@
     </main>
 
     <footer class="SiteFooter">
-
-      <section>
-        <span>This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span>
-        is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">CCA 3.0 Unported License</a>.</span>
-      </seciton>
-
       <script type="text/javascript">
 
         var _gaq = _gaq || [];

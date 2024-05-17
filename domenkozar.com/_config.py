@@ -43,21 +43,21 @@ blog.path = ""
 
 ## blog_name -- Your Blog's name.
 # This is used repeatedly in default blog templates
-blog.name = u"Domen Kožar"
+blog.name = u"Mehdi's Personal Blog"
 
 ## blog_description -- A short one line description of the blog
 # used in the RSS/Atom feeds.
-blog.description = u"Domen Kožar's thoughts"
+blog.description = u"Mehdi's thoughts"
 
 ## blog_timezone -- the timezone that you normally write your blog posts from
-blog.timezone = "Europe/Ljubljana"
+blog.timezone = "Asia/Tehran"
 
 # pagination
 blog_pagination_dir = "page"
-blog_posts_per_page = 15
+blog_posts_per_page = 20
 
 # disqus
-blog.disqus.enabled = True
+blog.disqus.enabled = False
 blog.disqus.name = "domenkozar"
 
 # post excerpts
